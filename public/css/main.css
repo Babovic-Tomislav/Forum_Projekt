@@ -1,0 +1,42 @@
+.content-heading{
+    margin-bottom: 10px;
+}
+
+.main-content-heading{
+    padding:0 30px;
+}
+
+.contnt-wrap{
+    padding-left: 20px;
+}
+
+.inline-it{
+    display: inline-block !important;
+}
+
+
+#text_custom{
+    font-size: 2rem;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+#text_custom2{
+    font-size: 2rem;
+    font-family: 'Helvetica Neue', sans-serif;
+    color: #DF691A;
+    text-align: center;
+    background-color: #e9ecef;
+}
+
+#text_custom3{
+    color: red;
+    text-align: left;
+}
+
+#div_custom {
+    display:inline-block;
+  }
+
+#p_custom{
+    float: right;
+  }
